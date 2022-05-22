@@ -1,4 +1,4 @@
-
+![Brain Network](/brain_network.jpg)
 
 # References
 
